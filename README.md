@@ -93,3 +93,5 @@ Day 45 : Multiplexer using Transmission Gate
 Day 46 : 8 bit barrel shifter
 
 Day 47 : Single port RAM
+
+Day 48 : Dual port RAM
