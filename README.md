@@ -97,3 +97,5 @@ Day 47 : Single port RAM
 Day 48 : Dual port RAM
 
 Day 49 : Sequence Detector
+
+Day 50 : Decimal to Binary Encoder
