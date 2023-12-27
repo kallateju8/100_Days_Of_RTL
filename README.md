@@ -99,3 +99,7 @@ Day 48 : Dual port RAM
 Day 49 : Sequence Detector
 
 Day 50 : Decimal to Binary Encoder
+
+---------------------------------------- System Verilog Codes----------------------------------------------------------
+
+Day 51 : TB to print Happy New Year -> https://www.edaplayground.com/x/e4uA
