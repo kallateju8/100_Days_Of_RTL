@@ -1,0 +1,25 @@
+module struct_tb;
+  
+  typedef struct {
+    string students;
+    int marks;
+    string grade;
+  }st_example;
+  
+  initial
+    begin
+      st_example class7 = '{"ram",90,"A"};
+      st_example class8;
+      st_example class9 = '{"sita",60,"B"};
+      
+      $display("class7=%p class8=%p class9=%p\n",class7,class8,class9);
+       
+      //changing the name and results
+      class7.students = "krish";
+      class7.grade = "C";
+      $display("class7=%p class8=%p class9=%p\n",class7,class8,class9);
+      
+      class8=class9;
+      $display("class7=%p class8=%p class9=%p\n",class7,class8,class9);
+    end
+endmodule
