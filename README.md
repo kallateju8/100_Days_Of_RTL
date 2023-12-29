@@ -102,6 +102,8 @@ Day 50 : Decimal to Binary Encoder
 
 ---------------------------------------- System Verilog Codes----------------------------------------------------------
 
-Day 51 : TB to print Happy New Year -> https://www.edaplayground.com/x/e4uA
+Day 51 : TB to print Happy New Year 
 
-Day 52 : TB to verify logic data type -> https://www.edaplayground.com/x/gLmf
+Day 52 : TB to verify logic data type
+
+Day 53 : TB to verify unpacked struct datatype
