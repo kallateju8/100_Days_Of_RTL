@@ -1,0 +1,23 @@
+module sting_tb;
+string s;
+initial 
+  begin
+ s = "LinkedIn";
+  $display(s.getc(6)); // Display: (‘I’)
+  $display(s.toupper()); // Display: LINKEDIN
+    
+  s = {s, ".con"}; // "LinkedIn.con"
+    $display(s);
+    
+  s.putc(s.len()-1, "m"); // change n-> m
+  $display(s);  
+  $display(s.substr(0, 5)); // Display: Linked
+    
+ // Create temporary string, note format 
+  my_log($sformatf("%s/feed/", s));
+end
+task my_log(string message);
+ // Print a message to a log
+ $display("@%0d: %s", $time, message);
+endtask
+endmodule
