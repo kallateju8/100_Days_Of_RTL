@@ -109,3 +109,5 @@ Day 52 : TB to verify logic data type
 Day 53 : TB to verify unpacked struct datatype
 
 Day 54 : TB to verify packed struct datatype
+
+Day 55 : TB to verify strings 
