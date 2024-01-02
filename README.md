@@ -111,3 +111,5 @@ Day 53 : TB to verify unpacked struct datatype
 Day 54 : TB to verify packed struct datatype
 
 Day 55 : TB to verify strings 
+
+Day 56 : TB to verify array types
