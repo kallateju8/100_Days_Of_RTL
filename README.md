@@ -113,3 +113,5 @@ Day 54 : TB to verify packed struct datatype
 Day 55 : TB to verify strings 
 
 Day 56 : TB to verify array types
+
+Day 57 : TB to verify functions
