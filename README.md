@@ -119,3 +119,5 @@ Day 57 : TB to verify functions
 Day 58 : TB to verify tasks
 
 Day 59 : TB interface to verify ALU
+
+Day 60 : TB for object assignment and shallow copy method
