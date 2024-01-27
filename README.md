@@ -125,3 +125,5 @@ Day 60 : TB for object assignment and shallow copy method
 Day 61 : TB to verify deep copy 
 
 Day 62 : TB to verify inheritance
+
+Day 63 : TB to verify static function & function static methods
