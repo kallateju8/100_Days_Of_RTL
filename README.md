@@ -139,3 +139,5 @@ Day 67 : TB to verify threads(fork_join_any)
 Day 68 : TB to verify events
 
 Day 69 : TB to verify mailbox
+
+Day 70 : TB for sending transaction data with mailbox
