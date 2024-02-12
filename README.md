@@ -141,3 +141,5 @@ Day 68 : TB to verify events
 Day 69 : TB to verify mailbox
 
 Day 70 : TB for sending transaction data with mailbox
+
+Day 71 : TB to verify semaphore
