@@ -145,3 +145,5 @@ Day 70 : TB for sending transaction data with mailbox
 Day 71 : TB to verify semaphore
 
 Day 72 : TB to verify packages
+
+Day 73 : TB to verify inline constraint
