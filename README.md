@@ -147,3 +147,5 @@ Day 71 : TB to verify semaphore
 Day 72 : TB to verify packages
 
 Day 73 : TB to verify inline constraint
+
+Day 74 : TB to count number of ones 
