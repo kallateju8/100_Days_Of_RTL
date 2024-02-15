@@ -149,3 +149,5 @@ Day 72 : TB to verify packages
 Day 73 : TB to verify inline constraint
 
 Day 74 : TB to count number of ones 
+
+Day 75 : TB to verify half subtractor
