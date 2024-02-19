@@ -1,0 +1,24 @@
+# KERNEL: ASDB file was created in location /home/runner/dataset.asdb
+# KERNEL: sending packet = GOOD
+# KERNEL: sending packet = GOOD
+# KERNEL: sending packet = GOOD
+# KERNEL: sending packet = GOOD
+# KERNEL: sending packet = GOOD
+# KERNEL: injecting error pkt
+# KERNEL: sending packet = BAD_3
+# KERNEL: injecting error pkt
+# KERNEL: sending packet = BAD_3
+# KERNEL: injecting error pkt
+# KERNEL: sending packet = BAD_3
+# KERNEL: injecting error pkt
+# KERNEL: sending packet = BAD_3
+# KERNEL: injecting error pkt
+# KERNEL: sending packet = BAD_1
+# KERNEL: sending packet = GOOD
+# KERNEL: sending packet = GOOD
+# KERNEL: sending packet = GOOD
+# KERNEL: sending packet = GOOD
+# KERNEL: sending packet = GOOD
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+# VSIM: Simulation has finished.
+Done
