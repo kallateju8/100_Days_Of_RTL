@@ -155,3 +155,5 @@ Day 75 : TB to verify half subtractor
 Day 76 : TB to verify full subtractor
 
 Day 77 : TB to verify full adder using mux 
+
+Day 78 : TB to verify demux
