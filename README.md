@@ -159,3 +159,5 @@ Day 77 : TB to verify full adder using mux
 Day 78 : TB to verify demux
 
 Day 79 : TB to verify system verilog callbacks
+
+Day 80 : TB to verify transmission gate 
