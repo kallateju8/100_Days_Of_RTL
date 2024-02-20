@@ -161,3 +161,5 @@ Day 78 : TB to verify demux
 Day 79 : TB to verify system verilog callbacks
 
 Day 80 : TB to verify transmission gate 
+
+Day 81 : TB to verify seven_segment_decoder
